@@ -1,0 +1,736 @@
+[
+  {
+    "group": 1,
+    "students": [
+      {
+        "name": "AKMAL BIN MOHAMED IKRAAM",
+        "id": 18010157
+      },
+      {
+        "name": "TAN LI SIANG",
+        "id": 17103060
+      },
+      {
+        "name": "DANIESHA JAYASINGHE",
+        "id": 16044760
+      },
+      {
+        "name": "TAN PEE AUN",
+        "id": 17037177
+      }
+    ],
+    "total": 86.0,
+    "scaled": 12.9
+  },
+  {
+    "group": 2,
+    "students": [
+      {
+        "name": "AMRITA MENON",
+        "id": 17029596
+      },
+      {
+        "name": "MARCUS TEOW KING YUMN",
+        "id": 19024371
+      },
+      {
+        "name": "MUHAMMAD HAFIZ BIN MOHAMED HAZIZI",
+        "id": 16027344
+      },
+      {
+        "name": "LIEW TZE CHEN",
+        "id": 18032730
+      }
+    ],
+    "total": 90.0,
+    "scaled": 13.5
+  },
+  {
+    "group": 3,
+    "students": [
+      {
+        "name": "BRYAN EEO ZHE YU",
+        "id": 20016960
+      },
+      {
+        "name": "IAN HOW YU XUAN",
+        "id": 18032649
+      }
+    ],
+    "total": 79.0,
+    "scaled": 11.85
+  },
+  {
+    "group": 4,
+    "students": [
+      {
+        "name": "BRYSEN POI YONG ZHEN",
+        "id": 17119363
+      },
+      {
+        "name": "DYLAN NG JIA JUN",
+        "id": 18031641
+      },
+      {
+        "name": "LOH KHAY WEN",
+        "id": 18017889
+      }
+    ],
+    "total": 88.0,
+    "scaled": 13.2
+  },
+  {
+    "group": 5,
+    "students": [
+      {
+        "name": "CHANG JIN HUNG",
+        "id": 18034033
+      },
+      {
+        "name": "YAP TZEC TOM",
+        "id": 18031161
+      },
+      {
+        "name": "MARCUS HO KAI SHUEN",
+        "id": 18022293
+      },
+      {
+        "name": "HO HUI SIEN",
+        "id": 15071459
+      }
+    ],
+    "total": 85.0,
+    "scaled": 12.75
+  },
+  {
+    "group": 6,
+    "students": [
+      {
+        "name": "MICHAEL LU HAN XIEN",
+        "id": 18081588
+      },
+      {
+        "name": "GARV SUDHIR NAIR",
+        "id": 19073535
+      },
+      {
+        "name": "ANJALI A/P RADHA KRISHNA",
+        "id": 16009847
+      },
+      {
+        "name": "YONG TZE MIN",
+        "id": 19079748
+      }
+    ],
+    "total": 92.0,
+    "scaled": 13.8
+  },
+  {
+    "group": 7,
+    "students": [
+      {
+        "name": "ERIC CHONG CHI KIT",
+        "id": 18084491
+      },
+      {
+        "name": "HONG REN SHEN",
+        "id": 18088880
+      },
+      {
+        "name": "ISAAC LIM NYIT WANG",
+        "id": 17045378
+      },
+      {
+        "name": "KEVEN TAI YUAN TIAN",
+        "id": 17035023
+      }
+    ],
+    "total": 79.0,
+    "scaled": 11.85
+  },
+  {
+    "group": 8,
+    "students": [
+      {
+        "name": "KHIRRTINI A/P MURALEETHARAN",
+        "id": 18032052
+      },
+      {
+        "name": "PHYLLIS CHONG YEE TENG",
+        "id": 18011551
+      },
+      {
+        "name": "KHAIRUL AKMAL BIN KHAIRULANWAR",
+        "id": 18045872
+      }
+    ],
+    "total": 89.0,
+    "scaled": 13.35
+  },
+  {
+    "group": 9,
+    "students": [
+      {
+        "name": "PENG SHAO WEI",
+        "id": 19084227
+      },
+      {
+        "name": "KOH JIA YI",
+        "id": 17063470
+      },
+      {
+        "name": "NG J-HAN",
+        "id": 18042507
+      },
+      {
+        "name": "GAN KAI WEN",
+        "id": 16007940
+      }
+    ],
+    "total": 88.0,
+    "scaled": 13.2
+  },
+  {
+    "group": 10,
+    "students": [
+      {
+        "name": "KOK SHI QI",
+        "id": 19049808
+      },
+      {
+        "name": "LIM PEI NI",
+        "id": 19066273
+      },
+      {
+        "name": "TANG WEN YI",
+        "id": 17102617
+      },
+      {
+        "name": "YAN YI CHENG",
+        "id": 17109505
+      }
+    ],
+    "total": 94.0,
+    "scaled": 14.1
+  },
+  {
+    "group": 11,
+    "students": [
+      {
+        "name": "LIM WEI JUN",
+        "id": 18034223
+      },
+      {
+        "name": "BRYAN TANG KUI YAN",
+        "id": 18041772
+      },
+      {
+        "name": "LAI WENG XI",
+        "id": 18043521
+      },
+      {
+        "name": "LAI CHUN HOU",
+        "id": 18043547
+      }
+    ],
+    "total": 91.0,
+    "scaled": 13.65
+  },
+  {
+    "group": 12,
+    "students": [
+      {
+        "name": "LAN YEE FAYE",
+        "id": 18123729
+      },
+      {
+        "name": "CHRISTINE LAW HAN NI",
+        "id": 18056796
+      }
+    ],
+    "total": 80.0,
+    "scaled": 12.0
+  },
+  {
+    "group": 13,
+    "students": [
+      {
+        "name": "LIM BING XUAN",
+        "id": 17075748
+      },
+      {
+        "name": "OW YEONG MUN YIN",
+        "id": 17076431
+      },
+      {
+        "name": "TAN WEN KANG",
+        "id": 17060955
+      },
+      {
+        "name": "ARUN ALAGUSUNTHRAM A/L VENKATACHALAM",
+        "id": 17035668
+      }
+    ],
+    "total": 88.0,
+    "scaled": 13.2
+  },
+  {
+    "group": 14,
+    "students": [
+      {
+        "name": "KHOR LI HENG",
+        "id": 19014885
+      },
+      {
+        "name": "LIM CHZE YEE",
+        "id": 16034357
+      },
+      {
+        "name": "HASSAN AZWAAN",
+        "id": 18086157
+      },
+      {
+        "name": "SHANKARNIVASH RAO",
+        "id": 18007930
+      }
+    ],
+    "total": 90.0,
+    "scaled": 13.5
+  },
+  {
+    "group": 15,
+    "students": [
+      {
+        "name": "LIM HAN SHEN",
+        "id": 18124693
+      },
+      {
+        "name": "BRANDON WONG CHING YONG",
+        "id": 17097692
+      },
+      {
+        "name": "BRYAN TAN GUAN EU",
+        "id": 17083445
+      },
+      {
+        "name": "YEOH QING TUAN",
+        "id": 18002220
+      }
+    ],
+    "total": 90.0,
+    "scaled": 13.5
+  },
+  {
+    "group": 16,
+    "students": [
+      {
+        "name": "LOW JUN JIE",
+        "id": 19041409
+      },
+      {
+        "name": "SARAH LOW REN ERN",
+        "id": 18122614
+      },
+      {
+        "name": "MUKESH RAJAH A/L MICHAEL RAJAH",
+        "id": 19028281
+      },
+      {
+        "name": "SEAN SURAJ NATHAN",
+        "id": 17003807
+      }
+    ],
+    "total": 87.0,
+    "scaled": 13.05
+  },
+  {
+    "group": 17,
+    "students": [
+      {
+        "name": "MATTHEW NG YEE CHUN",
+        "id": 18031930
+      },
+      {
+        "name": "PHANG CHIN TER",
+        "id": 17035643
+      },
+      {
+        "name": "WOO WAI HONG",
+        "id": 16026189
+      },
+      {
+        "name": "LOH MUI HIN",
+        "id": 14085906
+      }
+    ],
+    "total": 86.0,
+    "scaled": 12.9
+  },
+  {
+    "group": 18,
+    "students": [
+      {
+        "name": "HAY SU SIM",
+        "id": 18112342
+      },
+      {
+        "name": "GAN CHU HENG",
+        "id": 18111773
+      },
+      {
+        "name": "MOO JUNN LIANG",
+        "id": 18027623
+      },
+      {
+        "name": "LOH WIL KEN",
+        "id": 19031301
+      }
+    ],
+    "total": 92.0,
+    "scaled": 13.8
+  },
+  {
+    "group": 19,
+    "students": [
+      {
+        "name": "LEO PAUL LARKIN",
+        "id": 18088971
+      },
+      {
+        "name": "THEVENDREN A/L PARANTHAMAN",
+        "id": 18067074
+      },
+      {
+        "name": "NG JUN REN",
+        "id": 17098302
+      },
+      {
+        "name": "FUN KOK FUI",
+        "id": 18047829
+      }
+    ],
+    "total": 84.0,
+    "scaled": 12.6
+  },
+  {
+    "group": 20,
+    "students": [
+      {
+        "name": "LIEW HSIEN LOONG",
+        "id": 18030221
+      },
+      {
+        "name": "STEVEN SOO YON ZHANG",
+        "id": 16039166
+      },
+      {
+        "name": "NG WEI XIANG",
+        "id": 18033167
+      },
+      {
+        "name": "TEH JIING REN",
+        "id": 18027565
+      }
+    ],
+    "total": 91.0,
+    "scaled": 13.65
+  },
+  {
+    "group": 21,
+    "students": [
+      {
+        "name": "NICHOLAS LEE CHOON SIN",
+        "id": 18073957
+      },
+      {
+        "name": "CHEONG KENG SON",
+        "id": 18074229
+      },
+      {
+        "name": "ADRIAN CHING LIANSHENG",
+        "id": 18063685
+      },
+      {
+        "name": "NG WEI JINN",
+        "id": 18064154
+      }
+    ],
+    "total": 91.0,
+    "scaled": 13.65
+  },
+  {
+    "group": 22,
+    "students": [
+      {
+        "name": "ONG YU MHING",
+        "id": 18098517
+      },
+      {
+        "name": "TRISTAN ELISHA CHONG ZE HAN",
+        "id": 18125799
+      },
+      {
+        "name": "CHUAH KIM HOOI",
+        "id": 18123588
+      },
+      {
+        "name": "TAN JU BHIN",
+        "id": 15025034
+      }
+    ],
+    "total": 93.0,
+    "scaled": 13.95
+  },
+  {
+    "group": 23,
+    "students": [
+      {
+        "name": "PAN CHEN SOON",
+        "id": 17071549
+      },
+      {
+        "name": "PAN CHEN PONG",
+        "id": 16087520
+      },
+      {
+        "name": "TAN SZE QIN",
+        "id": 18037259
+      },
+      {
+        "name": "LEONG YEN LOONG",
+        "id": 18076083
+      }
+    ],
+    "total": 92.0,
+    "scaled": 13.8
+  },
+  {
+    "group": 24,
+    "students": [
+      {
+        "name": "SIOW WOON KANG",
+        "id": 18042135
+      }
+    ],
+    "total": 83.0,
+    "scaled": 12.45
+  },
+  {
+    "group": 25,
+    "students": [
+      {
+        "name": "TAN HANLEY",
+        "id": 18033936
+      },
+      {
+        "name": "LAU ZHEN YU",
+        "id": 18024182
+      },
+      {
+        "name": "LIM SHAO YONG",
+        "id": 19052059
+      },
+      {
+        "name": "KEANU TAN SOON JIE",
+        "id": 18020552
+      }
+    ],
+    "total": 84.0,
+    "scaled": 12.6
+  },
+  {
+    "group": 26,
+    "students": [
+      {
+        "name": "TAN WYYEE",
+        "id": 17013673
+      },
+      {
+        "name": "KOK MING HO",
+        "id": 19024272
+      },
+      {
+        "name": "SIN JUN",
+        "id": 18087619
+      }
+    ],
+    "total": 86.0,
+    "scaled": 12.9
+  },
+  {
+    "group": 27,
+    "students": [
+      {
+        "name": "TEOH SHI HONG",
+        "id": 19072735
+      },
+      {
+        "name": "SENG WEN LONG",
+        "id": 20076105
+      },
+      {
+        "name": "LAU WEI XUAN",
+        "id": 19081199
+      }
+    ],
+    "total": 79.0,
+    "scaled": 11.85
+  },
+  {
+    "group": 28,
+    "students": [
+      {
+        "name": "TEOH ZHAN TAO",
+        "id": 15022999
+      },
+      {
+        "name": "ANG YU HERN",
+        "id": 17107202
+      },
+      {
+        "name": "CHONG CHEIN YEAP",
+        "id": 17119876
+      },
+      {
+        "name": "ENG JANSON",
+        "id": 17102047
+      }
+    ],
+    "total": 87.0,
+    "scaled": 13.05
+  },
+  {
+    "group": 29,
+    "students": [
+      {
+        "name": "THAM YEE JIN",
+        "id": 18003897
+      },
+      {
+        "name": "CHAN WEI QI",
+        "id": 18102855
+      },
+      {
+        "name": "CHEONG PUI YIEN",
+        "id": 18106914
+      }
+    ],
+    "total": 85.0,
+    "scaled": 12.75
+  },
+  {
+    "group": 30,
+    "students": [
+      {
+        "name": "THEYSIGAN A/L KUMARA VELOO",
+        "id": 17072182
+      },
+      {
+        "name": "RAGURAM A/L N. MOHAN",
+        "id": 18068718
+      },
+      {
+        "name": "PUVANESH RAO A/L RATHA KRISHNAN",
+        "id": 16029423
+      },
+      {
+        "name": "MUHAMMAD MAHAD NIAZ",
+        "id": 19053131
+      }
+    ],
+    "total": 79.0,
+    "scaled": 11.85
+  },
+  {
+    "group": 31,
+    "students": [
+      {
+        "name": "RUSHIL RAJENDRA BHATT",
+        "id": 18043299
+      },
+      {
+        "name": "WONG WEI CHEAN",
+        "id": 18000133
+      },
+      {
+        "name": "WONG YUEN-YI",
+        "id": 17112723
+      },
+      {
+        "name": "YASH AUBEELUCK",
+        "id": 19059401
+      }
+    ],
+    "total": 83.0,
+    "scaled": 12.45
+  },
+  {
+    "group": 32,
+    "students": [
+      {
+        "name": "YEOW WEI ZEN",
+        "id": 19079128
+      },
+      {
+        "name": "HEW CHEN YANG",
+        "id": 19071695
+      },
+      {
+        "name": "KARISHMA A/P RAVEENDRAN",
+        "id": 18038810
+      },
+      {
+        "name": "YAP CIA ING",
+        "id": 19075720
+      }
+    ],
+    "total": 87.0,
+    "scaled": 13.05
+  },
+  {
+    "group": 33,
+    "students": [
+      {
+        "name": "MUHAMMAD NABEEL RASHEED VARSALLY",
+        "id": 19025634
+      },
+      {
+        "name": "RAVEESH SHIBCHURN",
+        "id": 19053156
+      },
+      {
+        "name": "ELTIGANI HAMADELNIEL ELFATIH HAMADELNIEL",
+        "id": 17087610
+      },
+      {
+        "name": "YUTASHNA GUNNOO",
+        "id": 19063304
+      }
+    ],
+    "total": 89.0,
+    "scaled": 13.35
+  },
+  {
+    "group": 34,
+    "students": [
+      {
+        "name": "ZAHAEN HILMIE BIN ZAHARUDIN",
+        "id": 17076407
+      },
+      {
+        "name": "KOK WUI LEE",
+        "id": 17069469
+      },
+      {
+        "name": "LEE JYH YONG",
+        "id": 17074683
+      },
+      {
+        "name": "GOH WAI HOONG",
+        "id": 17068826
+      }
+    ],
+    "total": 89.0,
+    "scaled": 13.35
+  }
+]

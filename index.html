@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/@mdi/font@4.x/css/materialdesignicons.min.css" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.min.css" rel="stylesheet">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
+  <style>
+    [v-cloak] { display: none; }
+  </style>
+</head>
+<body>
+  <div id="app" v-cloak>
+    <v-overlay z-index="100" :value="!loaded"></v-overlay>
+    <v-app>
+      <v-app-bar app dark color="teal">
+        <v-tabs v-model="tab">
+          <v-tab>Group Marks Summary</v-tab>
+        </v-tabs>
+      </v-app-bar>
+
+      <v-main>
+        <v-container fluid class="fill-height flex-column">
+          <v-tabs-items v-model="tab" class="fill-height" style="width:100%">
+            <v-tab-item>
+              <v-data-iterator class="pa-2"
+                :items="groupresults"
+                :items-per-page="-1"
+                :search="groupsearch"
+                sort-by="group"
+                :custom-filter="filtergroup">
+                <template v-slot:header>
+                  <v-toolbar class="mb-1" flat color="blue-grey" dark>
+                    <v-text-field
+                      v-model="groupsearch"
+                      clearable
+                      flat
+                      solo-inverted
+                      hide-details
+                      prepend-inner-icon="mdi-magnify"
+                      label="Search"
+                    ></v-text-field>
+                  </v-toolbar>
+                </template>
+                <template v-slot:default="{ items }">
+                  <v-row>
+                    <v-col v-for="item in items" :key="item.name" cols="12" sm="6" md="4" lg="3">
+                      <v-card>
+                        <v-card-title>Group {{ item.group }}</v-card-title>
+                        <v-divider></v-divider>
+                        <v-list dense>
+                          <v-list-item v-for="(member, idx) in item.students" :key="member.name + idx" two-line>
+                            <v-list-item-content>
+                              <v-list-item-title>{{ member.name }}</v-list-item-title>
+                              <v-list-item-subtitle>{{ member.id }}</v-list-item-subtitle>
+                            </v-list-item-content>
+                          </v-list-item>
+                        </v-list>
+                        <template v-for="section in ['total', 'scaled']">
+                          <v-divider></v-divider>
+                          <v-list dense>
+                            <v-list-item>
+                              <v-list-item-content>
+                                <v-list-item-title>{{ section }}</v-list-item-title>
+                              </v-list-item-content>
+                              <v-list-item-action>
+                                <v-list-item-action-text>
+                                  <hideable-text>
+                                    <strong>{{ item[section] }}</strong> of {{ section == 'total' ? 100 : 15 }}
+                                  </hideable-text>
+                                </v-list-item-action-text>
+                              </v-list-item-action>
+                            </v-list-item>
+                          </v-list>
+                        </template>
+                      </v-card>
+                    </v-col>
+                  </v-row>
+                </template>
+              </v-data-iterator>
+            </v-tab-item>
+
+          </v-tabs-items>
+        </v-container>
+      </v-main>
+    </v-app>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/vue@2.x/dist/vue.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vuetify@2.x/dist/vuetify.js"></script>
+  <script src="index.js"></script>
+</body>
+</html>
